@@ -1,5 +1,6 @@
 # Pinnacle Eletronics: Q1 Revenue Analysis For Top 10 Physical Stores
 
+
 ### Table of Contents
 
 ### Objective

@@ -1,5 +1,6 @@
 # Pinnacle Eletronics: Q1 Revenue Analysis For Top 10 Physical Stores
 
+![img1-min](https://github.com/user-attachments/assets/47e5a18b-a5a8-4678-80b4-05320c0469b8)
 
 ### Table of Contents
 

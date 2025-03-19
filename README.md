@@ -33,3 +33,14 @@ After completing data cleaning and processing in PostgreSQL, the database was su
 Approximately 49,719 records in the sales table (about 79%) had NULL values in the DeliveryDate column, with no clear explanation for the missing data. Given that these transactions occurred in physical stores, an assumption was made that the missing values corresponded to in-store pickup orders. As a result, for these records, the DeliveryDate was set to match the OrderDate.
 
 However, if the missing values do not actually correspond to in-store pickups, this assumption could introduce potential inaccuracies. To mitigate this risk, and given the scope of this analysis, the DeliveryDate column was ultimately excluded from the findings. Therefore, the results presented are unlikely to be influenced by the missing values in this column.
+
+### Data Visualization
+
+A Power BI dashboard was created to address the management team's requirements, providing key insights into sales performance, top-performing stores, best-selling products, and revenue trends. Below is a snapshot of the dashboard.
+![image](https://github.com/user-attachments/assets/7dc424bd-e51f-48b4-85bb-dca4fbafa1d1)
+![image](https://github.com/user-attachments/assets/1634f50d-8a6f-4092-8694-304c6f1f21bc)
+
+### Observations, Analysis & Reporting
+
+
+

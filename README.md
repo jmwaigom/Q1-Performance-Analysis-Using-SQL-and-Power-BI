@@ -44,7 +44,7 @@ A Power BI dashboard was created to address the management team's requirements, 
 
 ### Observations, Analysis & Reporting
 
-#### ***Revenue by Store***
+### ***1. Revenue by Store***
 Store 0 is the top-performing location, generating 27.5% of total Q1 revenue, far surpassing Store 55, which ranks second at just 4.9%. Store 0’s dominance is driven by higher sales volume, accounting for 27.5% of all units sold, with Store 55 trailing at 4.1%. This significant gap suggests that Store 0 benefits from stronger demand or a more effective sales strategy compared to other locations.
 
 In Store 0, desktops and laptops dominate sales, contributing 63.3% and 19.0% of total sales, respectively, reflecting a strong customer preference for computing devices. Additionally, across the top 10 stores, desktops, laptops, and projectors & screens consistently rank as the top three revenue drivers, reinforcing their importance in overall sales performance.
@@ -56,7 +56,7 @@ Enhancing marketing efforts by leveraging insights from Store 0, such as refinin
 Additionally, analyzing store-specific factors such as foot traffic, customer demographics, and purchasing behavior will help tailor strategies to each location’s unique needs.
 Finally, investing in sales training and improving customer experience by equipping staff with better product knowledge and engagement techniques can enhance customer interactions and increase conversion rates across all stores.
 
-### ***Top Products by Revenue and Units Sold***
+### ***2. Top Products by Revenue and Units Sold***
 Overall, desktops, laptops, and projectors generate the highest sales revenue across the top 10 stores. However, they do not lead in total units sold. Desktops rank second, while Movie DVDs hold the top spot, followed by Touch Screen Phones in third place. This suggests that while DVDs and phones sell in higher volumes, desktops contribute more significantly to revenue per unit.
 
 #### ***Recommendations:***
@@ -66,7 +66,7 @@ Since Movie DVDs and touch screen phones sell in large quantities, exploring bul
 
 Offering targeted discounts or promotions on desktops could help boost sales volume without significantly impacting revenue, while accessories for high-volume products might present an opportunity for additional sales.
 
-#### ***Revenue Trend Analysis***
+### ***3. Revenue Trend Analysis***
 The Q1 revenue trend reveals significant fluctuations, with sharp spikes and dips throughout the quarter rather than a consistent upward or downward pattern. Notably, revenue peaked at $41K on January 3rd, followed by multiple declines and recoveries, including another high of $34K on January 31st. These periodic surges suggest that sales activity may be influenced by external factors such as promotions, seasonal demand, or pay cycles, while the frequent dips highlight potential inconsistencies in daily sales performance. Identifying the drivers behind these fluctuations can help in refining inventory management, promotional timing, and sales strategies to stabilize revenue flow.
 
 #### ***Recommendations:***

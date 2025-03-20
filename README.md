@@ -2,6 +2,9 @@
 
 ![img1-min](https://github.com/user-attachments/assets/47e5a18b-a5a8-4678-80b4-05320c0469b8)
 
+### Disclaimer
+This project is based on a hypothetical business scenario created for educational and analytical purposes. Pinnacle Electronics does not represent a real company. The data, including names and transaction records used in this analysis is simulated. Any resemblance to actual persons or businesses is purely coincidental.
+
 ### Table of Contents
 
 ### Introduction:
@@ -56,7 +59,7 @@ Store 0 is the top-performing location, generating 27.5% of total Q1 revenue, fa
 
 In Store 0, desktops and laptops dominate sales, contributing 63.3% and 19.0% of total sales, respectively, reflecting a strong customer preference for computing devices. Additionally, across the top 10 stores, desktops, laptops, and projectors & screens consistently rank as the top three revenue drivers, reinforcing their importance in overall sales performance.
 
-#### ***Recommendations:****
+#### ***Recommendations:***
 To improve sales in underperforming stores, optimizing pricing and promotions for desktops and laptops through targeted discounts, bundle deals, and financing options could help attract more buyers and maximize revenue.
 
 Enhancing marketing efforts by leveraging insights from Store 0, such as refining advertising strategies, improving product placement, and implementing localized promotions, can drive greater customer engagement.

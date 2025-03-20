@@ -4,8 +4,15 @@
 
 ### Table of Contents
 
+### Introduction:
+This project simulates the role of a Data Analyst at Pinnacle Electronics, a global electronics retailer that sells a diverse range of products across multiple countries. The objective is to replicate real-world, short-term ad hoc projects that data analysts often encounter in a fast-paced business environment.
+
+At Pinnacle Electronics, analysts frequently handle high-priority, quick-turnaround requests from various teams, including sales, marketing, supply chain, and finance. These tasks may involve anything from extracting customer and sales data for regional managers to analyzing product performance trends across different markets.
+
+This simulation works on a time-sensitive assignment that requires efficient data extraction, analysis, and reporting—a task designed to reflect real-world business needs that can be accomplished within 1-3 days. The focus is on delivering actionable insights, helping stakeholders make informed decisions in a competitive market
+
 ### Objective
-Senior management at Pinnacle Electronics wanted a comprehensive snapshot of Q1 (January – March 2021) sales performance across all regions. They needed to see:
+Senior management at Pinnacle Electronics wants a comprehensive snapshot of Q1 (January – March 2021) sales performance across all regions. They need to see:
 - Top 10 stores by revenue across all locations/countries
 - Best-selling products by sales volume and revenue
 - Best-selling products (by sales volume and revenue) within the top 10 stores

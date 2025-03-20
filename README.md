@@ -41,7 +41,7 @@ Five tables were available in a Postgres database:
 
 **Products**: Contained information such as name, brand, unit cost and category
 
-**Sales**: Contained purchase information such as order quantity and date of transaction
+**Sales**: Contained purchase information such as order quantity and date of transaction (2015-2021)
 
 **Stores**: Contained data for store name, location, size and open/launch date
 
@@ -50,7 +50,7 @@ Five tables were available in a Postgres database:
 ### Data Preprocessing
 All data preprocessing was conducted in PostgreSQL (see attached SQL file for the code). While table modifications were restricted by the database administrator, permission was granted to create views for temporary data storage and transformation. The Exchange table was ultimately not used, as all transactions in the sales table had already undergone the necessary currency conversions before data processing.
 
-After completing data cleaning and processing in PostgreSQL, the database was successfully connected to Power BI, and all relevant tables were transferred for further analysis and visualization.
+After completing data cleaning and processing in PostgreSQL, the data was filtered for Q1 of 2021 (Jan-Mar only). Thereafter, the database was successfully connected to Power BI, and all relevant tables were transferred for further analysis and visualization.
 
 ### Data Challenge(s) and Assumption(s):
 Approximately 49,719 records in the sales table (about 79%) had NULL values in the DeliveryDate column, with no clear explanation for the missing data. Given that these transactions occurred in physical stores, an assumption was made that the missing values corresponded to in-store pickup orders. As a result, for these records, the DeliveryDate was set to match the OrderDate.

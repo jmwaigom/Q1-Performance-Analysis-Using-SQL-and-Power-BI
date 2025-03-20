@@ -6,6 +6,17 @@
 This project is based on a hypothetical business scenario created for educational and analytical purposes. Pinnacle Electronics does not represent a real company. The data, including names and transaction records used in this analysis is simulated. Any resemblance to actual persons or businesses is purely coincidental.
 
 ### Table of Contents
+- [Introduction](#introduction)  
+- [Objective](#objective)  
+- [Dataset Available](#dataset-available)  
+- [Data Preprocessing](#data-preprocessing)  
+- [Data Challenge(s) and Assumption(s)](#data-challenges-and-assumptions)  
+- [Data Visualization](#data-visualization)  
+- [Observations, Analysis & Reporting](#observations-analysis--reporting)  
+  - [Revenue by Store](#revenue-by-store)  
+  - [Top Products by Revenue and Units Sold](#top-products-by-revenue-and-units-sold)  
+  - [Revenue Trend Analysis](#revenue-trend-analysis)  
+- [Final Thought: Expanding Customer Data for Deeper Insights](#final-thought-expanding-customer-data-for-deeper-insights)  
 
 ### Introduction:
 This project simulates the role of a Data Analyst at Pinnacle Electronics, a global electronics retailer that sells a diverse range of products across multiple countries. The objective is to replicate real-world, short-term ad hoc projects that data analysts often encounter in a fast-paced business environment.
@@ -54,7 +65,7 @@ A Power BI dashboard was created to address the management team's requirements, 
 
 ### Observations, Analysis & Reporting
 
-### ***1. Revenue by Store***
+### ***Revenue by Store***
 Store 0 is the top-performing location, generating 27.5% of total Q1 revenue, far surpassing Store 55, which ranks second at just 4.9%. Store 0’s dominance is driven by higher sales volume, accounting for 27.5% of all units sold, with Store 55 trailing at 4.1%. This significant gap suggests that Store 0 benefits from stronger demand or a more effective sales strategy compared to other locations.
 
 In Store 0, desktops and laptops dominate sales, contributing 63.3% and 19.0% of total sales, respectively, reflecting a strong customer preference for computing devices. Additionally, across the top 10 stores, desktops, laptops, and projectors & screens consistently rank as the top three revenue drivers, reinforcing their importance in overall sales performance.
@@ -66,7 +77,7 @@ Enhancing marketing efforts by leveraging insights from Store 0, such as refinin
 Additionally, analyzing store-specific factors such as foot traffic, customer demographics, and purchasing behavior will help tailor strategies to each location’s unique needs.
 Finally, investing in sales training and improving customer experience by equipping staff with better product knowledge and engagement techniques can enhance customer interactions and increase conversion rates across all stores.
 
-### ***2. Top Products by Revenue and Units Sold***
+### ***Top Products by Revenue and Units Sold***
 Overall, desktops, laptops, and projectors generate the highest sales revenue across the top 10 stores. However, they do not lead in total units sold. Desktops rank second, while Movie DVDs hold the top spot, followed by Touch Screen Phones in third place. This suggests that while DVDs and phones sell in higher volumes, desktops contribute more significantly to revenue per unit.
 
 #### ***Recommendations:***
@@ -76,7 +87,7 @@ Since Movie DVDs and touch screen phones sell in large quantities, exploring bul
 
 Offering targeted discounts or promotions on desktops could help boost sales volume without significantly impacting revenue, while accessories for high-volume products might present an opportunity for additional sales.
 
-### ***3. Revenue Trend Analysis***
+### ***Revenue Trend Analysis***
 The Q1 revenue trend reveals significant fluctuations, with sharp spikes and dips throughout the quarter rather than a consistent upward or downward pattern. Notably, revenue peaked at $41K on January 3rd, followed by multiple declines and recoveries, including another high of $34K on January 31st. These periodic surges suggest that sales activity may be influenced by external factors such as promotions, seasonal demand, or pay cycles, while the frequent dips highlight potential inconsistencies in daily sales performance. Identifying the drivers behind these fluctuations can help in refining inventory management, promotional timing, and sales strategies to stabilize revenue flow.
 
 #### ***Recommendations:***
